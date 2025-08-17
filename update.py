@@ -1,6 +1,5 @@
 import random
 import requests
-import base64
 
 # دانلود ساب اصلی
 url = "https://raw.githubusercontent.com/Newv2ray/new/refs/heads/main/iSegaro.txt"
@@ -20,11 +19,8 @@ meta = f"""//profile-update-interval: 1
 # فایل نهایی با متادیتا
 full_config = meta + "\n" + configs
 
-# تبدیل به Base64 (اگر کلاینت نیاز داشته باشه)
-encoded = base64.b64encode(full_config.encode()).decode()
-
 # ذخیره در فایل
 with open("sub_ready.txt", "w") as f:
-    f.write(encoded)
+    f.write(full_config)
 
 print("ساب آماده شد: sub_ready.txt")
