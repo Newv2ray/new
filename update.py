@@ -21,7 +21,7 @@ meta = f"""//profile-update-interval: 1
 full_config = meta + "\n" + configs
 
 # ذخیره در فایل
-with open("sub_dynamic.txt", "w") as f:
+with open("iSegaro.txt", "w") as f:
     f.write(full_config)
 
-print("ساب داینامیک آماده شد: sub_dynamic.txt")
+print("ساب داینامیک آماده شد: iSegaro.txt")
