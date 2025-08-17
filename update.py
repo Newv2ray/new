@@ -1,7 +1,8 @@
 import random
 import requests
+import base64
 
-# لینک ساب گیت‌هاب
+# دانلود ساب اصلی
 url = "https://raw.githubusercontent.com/Newv2ray/new/refs/heads/main/iSegaro.txt"
 r = requests.get(url)
 configs = r.text
@@ -9,14 +10,21 @@ configs = r.text
 # ساخت متادیتا رندوم
 upload = random.randint(0, 200) * 1024*1024*1024
 download = random.randint(0, 500) * 1024*1024*1024
-total = 1099511627776  # 1 ترابایت
+total = 1099511627776
 expire = 2546249531
 
 meta = f"""//profile-update-interval: 1
 //subscription-userinfo: upload={upload}; download={download}; total={total}; expire={expire}
 """
 
-with open("sub_with_metadata.txt", "w") as f:
-    f.write(meta + "\n" + configs)
+# فایل نهایی با متادیتا
+full_config = meta + "\n" + configs
 
-print("sub_with_metadata.txt updated!")
+# تبدیل به Base64 (اگر کلاینت نیاز داشته باشه)
+encoded = base64.b64encode(full_config.encode()).decode()
+
+# ذخیره در فایل
+with open("sub_ready.txt", "w") as f:
+    f.write(encoded)
+
+print("ساب آماده شد: sub_ready.txt")
