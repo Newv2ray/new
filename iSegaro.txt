@@ -1,3 +1,5 @@
+import random
+import time
 //profile-update-interval: 1
 upload = random.randint(0, 200) * 1024 * 1024 * 1024
 download = random.randint(0, 500) * 1024 * 1024 * 1024
