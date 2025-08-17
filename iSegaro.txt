@@ -1,32 +1,8 @@
-import random
-
-# ظرفیت کل = 1 ترابایت
-TOTAL = 1099511627776  
-# تاریخ انقضا (سال 2050)
-EXPIRE = 2546249531  
-
-# آپلود و دانلود رندوم (بر حسب بایت)
-upload = random.randint(0, 200) * 1024 * 1024 * 1024   # 0 تا 200 گیگ
-download = random.randint(0, 500) * 1024 * 1024 * 1024 # 0 تا 500 گیگ
-
-# متادیتا
-meta = f"""//profile-update-interval: 1
-//subscription-userinfo: upload={upload}; download={download}; total={TOTAL}; expire={EXPIRE}
-"""
-
-# کانفیگ‌های واقعی توی فایل
-configs = """
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=edge&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=%2F&type=tcp&headerType=none#Sv1_%40iSegaro🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=qq&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=%2F&type=tcp&headerType=none#Sv2_%40iSegaro🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=firefox&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#Sv3_%40iSegaro🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#Sv4_%40iSegaro🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=%2F&type=tcp&headerType=none#Sv5_%40iSegaro🇺🇸
-vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk6v.tok8888.com:45445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.webilop.com&fp=safari&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#Sv6_%40iSegaro🇺🇸
-vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20t.me%2FiSeqaro
-"""
-
-# ترکیب نهایی
-with open("sub.txt", "w") as f:
-    f.write(meta + "\n" + configs.strip() + "\n")vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=safari&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=%2F&type=tcp&headerType=none#Sv5_%40iSegaro🇺🇸
 vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk6v.tok8888.com:45445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.webilop.com&fp=safari&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=%2F&type=tcp&headerType=none#Sv6_%40iSegaro🇺🇸
 vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20t.me%2FiSeqaro
