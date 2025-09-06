@@ -2,10 +2,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //server
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#Unlimited%20NL%F0%9F%87%B3%F0%9F%87%B1
-vless://c439c058-b953-4acd-a7c8-871e89dffe90@77.83.245.220:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=27cfa05000c23cc4#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20VLESS%20%5BGame%F0%9F%8E%AE%5D
-vless://c439c058-b953-4acd-a7c8-871e89dffe90@45.144.51.23:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=27cfa05000c23cc4#%F0%9F%87%B5%F0%9F%87%B1%20Holand%20VLESS
-vless://c439c058-b953-4acd-a7c8-871e89dffe90@77.246.100.169:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=27cfa05000c23cc4#%F0%9F%87%B3%F0%9F%87%B1%20Netherland%204%20VLESS
-vless://c439c058-b953-4acd-a7c8-871e89dffe90@147.45.51.28:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.com&sid=27cfa05000c23cc4#%F0%9F%87%AE%F0%9F%87%B9%20italia%20VLESS
+
 //command
 //vless://00e22ae7-a16e-44ae-a9af-66a1a119f674@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=edge&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=%2F&type=tcp&headerType=none#Sv1_%40iSegaro🇺🇸
 //vless://00e22ae7-a16e-44ae-a9af-66a1a119f674@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=qq&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=%2F&type=tcp&headerType=none#Sv2_%40iSegaro🇺🇸
