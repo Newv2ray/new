@@ -1,7 +1,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //اهدایی
-vless://Dornanet@65.21.233.158:55519?security=reality&encryption=none&pbk=r17-eEKYDtBbJNhVGqRsT7Y9F5WLeytQpbzIMSZXDQQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2df6#Finland%F0%9F%87%AB%F0%9F%87%AE-Dornanet
+
 vless://9748467e-b5d7-40cc-8ca2-51eca4aa6b3a@m71a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany%20vless-DE
 //command
 //vless://00e22ae7-a16e-44ae-a9af-66a1a119f674@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=edge&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=%2F&type=tcp&headerType=none#Sv1_%40iSegaro🇺🇸
