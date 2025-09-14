@@ -2,6 +2,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //اهدایی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS01HTFFYcm8zb3NGd012amdGUDFn@1.1.1.1:1080#%D8%A7%D9%87%D8%AF%D8%A7%20%D8%B4%D8%AF%D9%87%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20Dornanet
+vless://920db2d5-9548-4525-8ee5-7d83b43a5cbb@162.19.228.47:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=370dd394052f2386#%E2%9A%A1%20%7C%20%D8%A7%D9%87%D8%AF%D8%A7%D8%A6%DB%8C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20Dornanet
 vless://920db2d5-9548-4525-8ee5-7d83b43a5cbb@51.75.162.3:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=370dd394052f2386#%F0%9F%87%AC%F0%9F%87%A7%20UK-1-%20%E2%9A%A1Dornanet
 vless://920db2d5-9548-4525-8ee5-7d83b43a5cbb@185.231.172.33:21934?security=reality&encryption=none&pbk=chdp3DttIw6MWQPEnmxam0FBnEiaEmZqrSX_iNA6TjE&headerType=none&fp=chrome&type=tcp&sni=www.chess.com&sid=76b170a276997fba#%F0%9F%87%B3%F0%9F%87%B1%20NL-1-%20%E2%9A%A1%20%7C%20%D8%A7%D9%87%D8%AF%D8%A7%DB%8C%DB%8C%20Dornanetbot
 //vless://920db2d5-9548-4525-8ee5-7d83b43a5cbb@185.113.10.19:21934?security=reality&encryption=none&pbk=chdp3DttIw6MWQPEnmxam0FBnEiaEmZqrSX_iNA6TjE&headerType=none&fp=chrome&type=tcp&sni=www.chess.com&sid=76b170a276997fba#%F0%9F%87%A9%F0%9F%87%AA%20DE-1-%20%F0%9F%9A%80%20%7C%20%20%D8%A7%D9%87%D8%AF%D8%A7%DB%8C%DB%8C%20Dornanetbot
