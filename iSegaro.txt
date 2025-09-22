@@ -2,9 +2,9 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //اهدایی
 //ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvS01HTFFYcm8zb3NGd012amdGUDFn@1.1.1.1:1080#%D8%A7%D9%87%D8%AF%D8%A7%20%D8%B4%D8%AF%D9%87%20%D8%A7%D8%B2%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20Dornanet
-vless://b7f73254-172a-4b18-8941-897284149a4f@138.197.45.229:4312?security=reality&type=tcp&headerType=&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=mKzDPCMzVSSDRLoXQzPZ9bxWacxNKNj4UjRP1vXBCBA&sid=d59f3cc6a68619e8#%F0%9F%87%BA%F0%9F%87%B2%20USA%20%28AI%20Account%20%F0%9F%A7%A0%29
+//vless://b7f73254-172a-4b18-8941-897284149a4f@138.197.45.229:4312?security=reality&type=tcp&headerType=&path=&host=&sni=stackoverflow.com&fp=firefox&pbk=mKzDPCMzVSSDRLoXQzPZ9bxWacxNKNj4UjRP1vXBCBA&sid=d59f3cc6a68619e8#%F0%9F%87%BA%F0%9F%87%B2%20USA%20%28AI%20Account%20%F0%9F%A7%A0%29
 vless://b7f73254-172a-4b18-8941-897284149a4f@185.123.100.31:4312?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=mKzDPCMzVSSDRLoXQzPZ9bxWacxNKNj4UjRP1vXBCBA&sid=d59f3cc6a68619e8#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-vless://b7f73254-172a-4b18-8941-897284149a4f@139.59.166.15:12000?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=B06U1TZdmV9qKd0X6a4FQIN1ggNTBIp5Dh1DNsSdsnk&sid=880add42e8262e71#%F0%9F%87%AC%F0%9F%87%A7%20UK%20%28Best%20Speed%20%F0%9F%9A%80%29
+//vless://b7f73254-172a-4b18-8941-897284149a4f@139.59.166.15:12000?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=B06U1TZdmV9qKd0X6a4FQIN1ggNTBIp5Dh1DNsSdsnk&sid=880add42e8262e71#%F0%9F%87%AC%F0%9F%87%A7%20UK%20%28Best%20Speed%20%F0%9F%9A%80%29
 //vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@russia.abolfazl.ru:29200?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%28Youtube%20Ads%20%E2%9B%94%29
 //vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun1.abolfazl.ru:3023?security=none&type=tcp&headerType=none&path=&host=soft98.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%A9%F0%9F%87%AA%20Ger%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 //vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun2.abolfazl.ru:30243?security=none&type=tcp&headerType=none&path=&host=#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%AC%F0%9F%87%A7%20UK%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
